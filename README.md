@@ -1,5 +1,7 @@
 # my-kitty-config
 
+**THIS REPO is DEPRECATED in favor of [dotfiles/kitty](https://github.com/guyueshui/dotfiles/.config/kitty)!**
+
 the kitty config for tmux users
 
 the shortcuts (key bindings) is heavily inspired by [Oh my tmux!](https://github.com/gpakosz/.tmux#bindings)
